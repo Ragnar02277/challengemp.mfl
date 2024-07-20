@@ -1,0 +1,11 @@
+﻿row_id, user_id, user_state, user_manager
+1,1001,active,manuel.florez022@gmail.com
+2,1002,active,manuel.florez022@gmail.com
+3,1003,inactive,manuel.florez022@gmail.com
+4,1004,active,manuel.florez022@gmail.com
+5,1005,active,manuel.florez022@gmail.com
+6,1006,active,manuel.florez022@gmail.com
+7,1007,active,manuel.florez022@gmail.com
+8,1008,active,manuel.florez022@gmail.com
+9,1009,inactive,manuel.florez022@gmail.com
+10,1010,active,manuel.florez022@gmail.com

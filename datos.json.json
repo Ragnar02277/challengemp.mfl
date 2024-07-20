@@ -1,0 +1,29 @@
+{
+    "db_information": [
+        {
+            "db_name": "Sales",
+            "email_manager": "manager1@challengemp.org",
+            "db_clasification": "high"
+        },
+        {
+            "db_name": "RRHH",
+            "email_manager": "manager2@challengemp.org",
+            "db_clasification": "high"
+        },
+        {
+            "db_name": "Purchases",
+            "email_manager": "manager2@challengemp.org",
+            "db_clasification": "high"
+        },
+        {
+            "db_name": "Users",
+            "email_manager": "manager2@challengemp.org",
+            "db_clasification": "high"
+        },
+        {
+            "db_name": "RRHH",
+            "email_manager": "manager2@challengemp.org",
+            "db_clasification": "high"
+        }
+    ]
+}

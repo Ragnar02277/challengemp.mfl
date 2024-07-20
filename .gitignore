@@ -1,0 +1,12 @@
+# Archivos de entorno
+.env
+
+# Directorio de dependencias
+venv/
+
+# Archivos de compilación
+*.pyc
+__pycache__/
+
+# Archivos de base de datos
+*.db

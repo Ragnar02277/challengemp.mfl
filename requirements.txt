@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+yagmail==0.18.0
+sqlalchemy==2.0.0
+mysql-connector-python==8.0.32
+pandas==2.0.2
